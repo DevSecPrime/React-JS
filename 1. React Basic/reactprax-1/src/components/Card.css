@@ -1,0 +1,13 @@
+.myCard{
+    height: 450px;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 10%;
+    background-color: blueviolet;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    padding: 5px 0;
+}
